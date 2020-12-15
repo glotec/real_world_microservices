@@ -1,0 +1,23 @@
+{
+  "name": "real_world_microservices",
+  "version": "1.0.0",
+  "description": "how to create a real world microservices with nodejs",
+  "main": "source/main.js",
+  "scripts": {
+    "start": "nodemon source/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glotec/real_world_microservices.git"
+  },
+  "author": "glotec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glotec/real_world_microservices/issues"
+  },
+  "homepage": "https://github.com/glotec/real_world_microservices#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
